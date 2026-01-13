@@ -1,0 +1,50 @@
+.body{
+    background-color:#f0f9ff ;
+    text-align: center;
+}
+.header{
+    background-color: #ccfbf1;
+    color: #0f766e;
+    text-align: center;
+    font-size: large;
+}
+.menu{
+text-align: center;
+background-color: #e0f2fe;
+}
+.menu a {
+    text-decoration: none;
+    color: #0369a1;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.menu a:hover {
+    background-color: rgb(21, 107, 177);
+    color: white;
+}
+.main{
+    background-color: #f8fafc;
+}
+.title{
+    font-size: 20px;
+    color: #134e4a;
+}
+.size{
+    font-size: 20px;
+}
+.size:focus{
+    background-color: #e0f2fe;
+}
+.submit{
+    font-size: x-large;
+    background-color: #0f766e;
+    color: white;
+    border-color: black;
+}
+.footer{
+    background-color: #0f756d;
+    color: white;
+    text-align: center;
+    font-size: 18px;
+    line-height: 25px;
+}
