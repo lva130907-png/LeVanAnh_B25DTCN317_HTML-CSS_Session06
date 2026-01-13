@@ -41,10 +41,14 @@ background-color: #e0f2fe;
     color: white;
     border-color: black;
 }
+.submit:hover{
+    background-color: #134e4a;
+}
 .footer{
     background-color: #0f756d;
     color: white;
     text-align: center;
     font-size: 18px;
     line-height: 25px;
+
 }
